@@ -14,7 +14,7 @@ export default function Angela() {
             className="font-extrabold"
             style={{ color: "hsl(224, 21%, 14%)" }}
           >
-            Angela gray
+            Angela kishy
           </span>
           <span className="ml-1">
             followed you{" "}
